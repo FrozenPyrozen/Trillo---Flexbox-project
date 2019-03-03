@@ -15,7 +15,7 @@
   align-items: center;
 
   height: 7rem;
-  background-color: #fff;
+  background-color: var(--color-white);
   border-bottom-color: var(--color-grey-light-2);
 }
 
@@ -30,7 +30,7 @@
 }
 
 .hotel-view {
-  background-color: #fff;
+  background-color: var(--color-white);
   background-color: orangered;
 
   flex: 1;
