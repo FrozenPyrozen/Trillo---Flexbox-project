@@ -9,6 +9,11 @@
 }
 
 .header {
+  font-size: 1.4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
   height: 7rem;
   background-color: #fff;
   border-bottom-color: var(--color-grey-light-2);
